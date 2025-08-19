@@ -1,0 +1,4 @@
+train: C:\\Users\\dhaya\\OneDrive\\Desktop\\Yolo Object Detection\\train
+val: C:\\Users\\dhaya\\OneDrive\\Desktop\\Yolo Object Detection\\val
+nc: 3
+names: ['Sleeve','Collar','Body']
