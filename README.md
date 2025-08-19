@@ -1,4 +1,5 @@
 YOLO Object Detection
+
 📌 Project Overview
 
 This project implements object detection using the YOLO (You Only Look Once) deep learning model.
@@ -103,3 +104,4 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 📜 License
 
 This project is licensed under the MIT License.
+
